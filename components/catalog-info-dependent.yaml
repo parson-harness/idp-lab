@@ -17,7 +17,7 @@ metadata:
     - toddparson
 spec:
   type: service
-  owner: teama
+  owner: TeamB
   lifecycle: experimental
   system: Demo
   dependsOn:
